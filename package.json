@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "hello world",
+  "main": "index.js",
+  "repository": "https://github.com/bravoshl/hello-world.git",
+  "author": "shl <bravoshl@hotmail.com>",
+  "license": "MIT"
+}
