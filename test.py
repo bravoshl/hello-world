@@ -4,4 +4,4 @@ print('hello', name)
 
 
 def test():
-    pass
+    print('hello world')
