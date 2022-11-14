@@ -6,9 +6,9 @@ pipeline {
 
   }
   stages {
-    stage('') {
+    stage('error') {
       steps {
-        sh 'mkdir test111'
+        sh 'ls -al'
       }
     }
 
